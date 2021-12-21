@@ -1,0 +1,34 @@
+.header{
+    display: flex;
+    align-items: center;
+    background-color: rgb(236, 229, 220);
+    justify-content: space-between;
+
+}
+
+img{
+    width: 400px;
+    height: 50px;
+}
+
+.header a{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.header .logo{
+    max-height: 32px;
+}
+
+.header .title-group{
+    padding-left: 25px;
+}
+
+.header .title-group i{
+    padding-right: 5px;
+}
+
+a{
+    color: rgb(97, 93, 93);
+}
